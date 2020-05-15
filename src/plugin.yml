@@ -1,0 +1,8 @@
+main: me.joshy23.frozenwhitelist.FrozenWhitelist
+name: FrozenWhitelist
+version: 0.0.1
+description: A whitelist plugin for cracked server
+
+commands:
+  fwl:
+    description: Global frozen whitelist command.
