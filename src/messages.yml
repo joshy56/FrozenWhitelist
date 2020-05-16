@@ -1,0 +1,13 @@
+success:
+  add: "%prefix% &aJugador agregado a la whitelist correctamente."
+  remove: "%prefix% &aJugador removido de la whitelist correctamente."
+  join: "%prefix% &aEl jugador %player% se unio."
+error:
+  add:
+    invalid-name: "%prefix% &cDebes colocar el nombre de un jugador."
+    dont-has-permission: "%prefix% &cNo tienes permisos para hacer eso. &7(6e&mfwl.add&r&7)"
+  remove:
+    invalid-name: "%prefix% &cDebes colocar el nombre de un jugador."
+    dont-has-permission: "%prefix% &cNo tienes permisos para hacer eso. &7(&e&mfwl.remove&r&7)"
+  join:
+    kick-message: "%prefix% &cNo estas en la whitelist!"
